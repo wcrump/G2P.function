@@ -1,3 +1,0 @@
-goop <- function(){
-	print("goop")
-}
